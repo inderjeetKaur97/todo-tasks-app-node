@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66840e6122e8e94ea36aec03"
+  },
+  "name": "inderjeet",
+  "email": "inderjeet@yopmail.com",
+  "username": "test",
+  "password": "$2a$10$0VFPm1AkfyQv4pHWjRZlK.F3TVh6s0CS//4shVFmyNcPzGd3hirqG",
+  "createdAt": {
+    "$date": "2024-07-02T14:27:45.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T14:27:45.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66843e1f0424f11982e3dc30"
+  },
+  "name": "rakesh121@yopmail.com",
+  "email": "rakesh",
+  "username": "rakesh121",
+  "password": "$2a$10$QK1oYg3PgleXZB1gzbYmHOeZixQdCVRTlYuI4ksYNJMK.xQ.Wqw1u",
+  "createdAt": {
+    "$date": "2024-07-02T17:51:27.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T17:51:27.770Z"
+  },
+  "__v": 0
+}]

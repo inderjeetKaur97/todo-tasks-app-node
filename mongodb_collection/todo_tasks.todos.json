@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "66842ae437f7010ab1cfeccc"
+  },
+  "userId": {
+    "$oid": "66840e6122e8e94ea36aec03"
+  },
+  "title": "test todo",
+  "description": "test desc",
+  "dueDate": {
+    "$date": "2024-07-02T22:18:05.833Z"
+  },
+  "completed": false,
+  "setReminder": false,
+  "createdAt": {
+    "$date": "2024-07-02T16:29:24.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T16:29:24.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66842e73636c847f2f79238c"
+  },
+  "userId": {
+    "$oid": "66840e6122e8e94ea36aec03"
+  },
+  "title": "test todo new update",
+  "description": "test desc",
+  "dueDate": {
+    "$date": "2024-07-02T22:18:05.833Z"
+  },
+  "completed": false,
+  "setReminder": true,
+  "createdAt": {
+    "$date": "2024-07-02T16:44:35.535Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T17:52:28.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66843e420424f11982e3dc35"
+  },
+  "userId": {
+    "$oid": "66840e6122e8e94ea36aec03"
+  },
+  "title": "test todo 1",
+  "description": "test desc 2",
+  "dueDate": {
+    "$date": "2024-07-02T22:36:05.833Z"
+  },
+  "completed": false,
+  "setReminder": false,
+  "createdAt": {
+    "$date": "2024-07-02T17:52:02.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T17:52:02.873Z"
+  },
+  "__v": 0
+}]

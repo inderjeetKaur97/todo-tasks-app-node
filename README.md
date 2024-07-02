@@ -3,7 +3,7 @@
 <h3>Description</h3> 
 This is a backend developed on node.js , express framework with typescript for the project . The Application creates a todo tasks by authenticated users , who can then update completed and set reminders to there tasks.
 
-<li>Server - Node.js</li>
+<li>Server - Node.js</li> 
 <li>Language - Typescript</li>
 <li>Framework - express.js</li>
 <li>Data base - MongoDB</li>
